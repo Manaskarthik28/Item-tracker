@@ -1,0 +1,17 @@
+# ignore 
+
+.env
+
+__pycache__
+
+config/__pycahe__
+
+models/__pycache__
+
+security/__pycache__
+
+schema/__pycache__
+
+session/__pycache__
+
+items.db
